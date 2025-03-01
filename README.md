@@ -1,5 +1,5 @@
 
-## Hi👋 I'm Gettie1,
+## Hi👋 I'm Gettie,
 A full stack software developer passionate about technology especially web & android app development and also machine learning.Let's build something amazing together!
 
 - 🌱 I’m currently learning python,both front and backend web development and web hosting
