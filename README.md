@@ -1,42 +1,90 @@
+# Hello World! 👋 I'm Getrude Cheptoo
 
-# Hi there, I'm Gett! 👋
+**`Full-Stack Developer | Software Engineer`**
 
-**`A passionatw software developer`**
+Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies. When I'm not coding, you'll probably find me discovering interesting tech facts or building the next big thing.
 
-I'm a passionate Software developer based in Kenya. I love building things for the web, from simple scripts to complex applications. I'm currently diving deep into **Machine Learning** and exploring the world of **Open Source**.
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Go and Kubernetes**.
-- 👯 I’m looking to collaborate on **open-source projects related to developer tools**.
-- 💬 Ask me about **React, Nestjs, Java , .NET, or my journey into tech**.
-- 📫 How to reach me linkedIn:www.linkedin.com/in/getrude-cheptoo-8859952b0?
-- ⚡ Fun fact: I'm a certified scuba diver 🐠 and a coffee enthusiast ☕.
+- 💻 **Currently working with:** .NET, Java, Nest.js, React, and Python
+- 🌱 **Learning:** Advanced cloud architectures and system design
+- 👯 **Looking to collaborate on:** Open-source projects and innovative web applications
+- 💡 **Interests:** Clean code, scalable systems, and developer experience
+- 🎯 **2024 Goals:** Contribute to major open-source projects and master microservices
 
----
-
-### 🛠️ Languages and Tools
+## 📫 Let's Connect
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,git,docker,aws,postgres,redis,html,css,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=true&layout=compact" />
+  <a href="mailto:cheptoog677@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/getrude-cheptoo-8859952b0">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/254728177993">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
----
+## 🛠️ Tech Stack & Tools
 
-### 🔗 Connect with me
-
+### **Languages & Frameworks**
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="your-profile" height="30" /></a>
-  <a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="your-handle" height="30" /></a>
-  <a href="https://your-portfolio-website.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=devto" alt="your-portfolio" height="30" /></a>
+  <img src="https://skillicons.dev/icons?i=java,dotnet,cs,nodejs,nestjs,python,typescript,javascript,react,spring,postgres,mysql,mongodb,redis" />
 </p>
 
+### **Development & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,linux,bash,vscode,visualstudio,postman" />
+</p>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" />
+</p>
+
+## 💼 Featured Projects
+
+### 🔥 [Project One]
+> A brief description of your most impressive project
+> 
+> **Tech:** Java • Spring Boot • React • PostgreSQL
+> 
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge)](your-link)
+> [![Source Code](https://img.shields.io/badge/📁_Source_Code-000000?style=for-the-badge)](your-repo-link)
+
+### ⚡ [Project Two] 
+> Another great project description
+> 
+> **Tech:** .NET • Nest.js • TypeScript • MongoDB
+> 
+> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge)](your-link)
+> [![Source Code](https://img.shields.io/badge/📁_Source_Code-000000?style=for-the-badge)](your-repo-link)
+
+---
+
+## ⚡ Fun Fact Zone
+
+**Did you know?** Google was originally called "Backrub"! 🤯
+
+Imagine saying, *"Let me Backrub that for you!"* instead of *"Let me google it!"* 
+Talk about a search engine with a massage! 💆‍♀️
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my profile!
+**"First, solve the problem. Then, write the code."** - John Johnson
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Hello+World!;Keep+Coding!;Build+Amazing+Things!;Coffee+%3C3+Code" alt="Typing SVG" />
+
+</div>
