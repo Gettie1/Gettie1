@@ -30,7 +30,7 @@ markdown
 <div align="center">
 
 ### 🎯 Current Focus
-```java
+
 public class Gettie {
     String[] workingWith = {".NET", "Java", "Nest.js", "React"};
     String[] learning = {"Cloud Architecture", "System Design", "Microservices"};
@@ -92,4 +92,4 @@ https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-
 
 ⭐ Feel free to star my repositories if you find something interesting!
 
-</div> ```
+</div> 
