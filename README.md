@@ -12,10 +12,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
   <tr>
     <td width="60%" valign="top">
       <p>
