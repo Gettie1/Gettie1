@@ -1,4 +1,6 @@
-# Hello👋, I'm Gettie!
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=4000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=60&lines=Hello+World!+👋;I'm+Gettie!;Full-Stack+Developer;.NET+%7C+Java+%7C+Nest.js" alt="Typing Animation" />
+</h1>
 
 **`Full-Stack Developer | Software Engineer`**
 
@@ -21,6 +23,11 @@ Welcome to my digital garden! I'm a passionate software developer with a love fo
 ### **Development & DevOps**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,linux,bash,vscode,visualstudio,postman" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gettie1&color=ff69b4" alt="Profile Views" /> 
+  <img src="https://img.shields.io/github/followers/Gettie1?color=ff69b4&style=flat" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Gettie1?color=ff69b4&style=flat" alt="GitHub Stars" />
 </p>
 
 ## 📈 GitHub Stats
