@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Getrude Cheptoo
+# Hello, 👋 I'm Gettie!
 
 **`Full-Stack Developer | Software Engineer`**
 
@@ -41,35 +41,17 @@ Welcome to my digital garden! I'm a passionate software developer with a love fo
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=radical&hide_border=true&layout=compact&langs_count=8" />
+  <a href="https://github.com/Gettie1">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gettie1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,0d1117,161b22&title_color=ff69b4&icon_color=ff69b4" />
+  </a>
+  <a href="https://github.com/Gettie1">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gettie1&theme=radical&hide_border=true&layout=compact&langs_count=8&bg_color=30,161b22,0d1117&title_color=ff69b4&hide=html,css,scss" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gettie1&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
 </p>
-
-## 💼 Featured Projects
-
-### 🔥 [Project One]
-> A brief description of your most impressive project
-> 
-> **Tech:** Java • Spring Boot • React • PostgreSQL
-> 
-> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge)](your-link)
-> [![Source Code](https://img.shields.io/badge/📁_Source_Code-000000?style=for-the-badge)](your-repo-link)
-
-### ⚡ [Project Two] 
-> Another great project description
-> 
-> **Tech:** .NET • Nest.js • TypeScript • MongoDB
-> 
-> [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-000000?style=for-the-badge)](your-link)
-> [![Source Code](https://img.shields.io/badge/📁_Source_Code-000000?style=for-the-badge)](your-repo-link)
-
----
 
 ## ⚡ Fun Fact Zone
 
