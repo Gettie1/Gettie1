@@ -19,7 +19,7 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        <i>Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies.</i>
+        <i></i>
       </p>
     </td>
     <td width="40%" valign="top">
