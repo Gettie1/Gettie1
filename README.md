@@ -16,21 +16,16 @@
 
 ## 🚀 About Me
 
-<table>
   <tr>
     <td width="60%" valign="top">
       <p>
-        <i>Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies. I believe in writing clean, efficient code and building applications that make a difference.</i>
+        <i>Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies.</i>
       </p>
     </td>
     <td width="40%" valign="top">
       <div align="center">
-        <h3>🎯 My Roles</h3>
         <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=300&lines=Full-Stack+Developer;.NET+Specialist;Java+Enthusiast;Nest.js+Developer;Problem+Solver" alt="Roles Animation" />
       </div>
-    </td>
-  </tr>
-</table>
 
 ---
 
