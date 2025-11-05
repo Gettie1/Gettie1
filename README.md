@@ -27,22 +27,6 @@
   <i>Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies. I believe in writing clean, efficient code and building applications that make a difference.</i>
 </p>
 
-<div align="center">
-
-### 🎯 Current Focus
-public class Gettie {
-    String[] workingWith = {".NET", "Java", "Nest.js", "React"};
-    String[] learning = {"Cloud Architecture", "System Design", "Microservices"};
-    String[] interests = {"Open Source", "Web Applications", "Innovative Tech"};
-    
-    String collaborateOn() {
-        return "Exciting projects that solve real-world problems!";
-    }
-}
-
-
-</div>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
