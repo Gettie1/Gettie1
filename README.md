@@ -1,20 +1,9 @@
 <div align="center">
 
-<!-- Animated Header - Side by Side -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <h1>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=400&lines=Hello+World!+👋;I'm+Gettie!" alt="Typing Animation" />
-      </h1>
-    </td>
-    <td align="center" width="50%">
-      <h3>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;.NET+Specialist;Java+Enthusiast;Nest.js+Developer" alt="Roles Animation" />
-      </h3>
-    </td>
-  </tr>
-</table>
+<!-- Animated Header -->
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Gettie!" alt="Typing Animation" />
+</h1>
 
 <!-- Visitor Stats -->
 <p>
@@ -27,9 +16,21 @@
 
 ## 🚀 About Me
 
-<p align="center">
-  <i>Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies. I believe in writing clean, efficient code and building applications that make a difference.</i>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        <i>Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies. I believe in writing clean, efficient code and building applications that make a difference.</i>
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <h3>🎯 My Roles</h3>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=300&lines=Full-Stack+Developer;.NET+Specialist;Java+Enthusiast;Nest.js+Developer;Problem+Solver" alt="Roles Animation" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
