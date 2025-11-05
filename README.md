@@ -22,10 +22,6 @@
         <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=300&lines=Full-Stack+Developer;.NET+Specialist;Java+Enthusiast;Nest.js+Developer;Problem+Solver" alt="Roles Animation" />
       </div>
 
----
-
-## 🛠️ Tech Stack & Tools
-
 ### **💻 Languages & Frameworks**
 <div align="center">
   
@@ -89,10 +85,10 @@
 </p>
 
 ### 🎯 Collaboration Interests
-- 🔧 **Open Source Projects**
-- 🌐 **Innovative Web Applications**  
-- 🚀 **Full-Stack Development**
-- ☁️ **Cloud-Native Solutions**
+🔧 **Open Source Projects**
+ 🌐 **Innovative Web Applications**  
+ 🚀 **Full-Stack Development**
+ ☁️ **Cloud-Native Solutions**
 
 </div>
 
