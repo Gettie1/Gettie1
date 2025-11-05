@@ -1,30 +1,15 @@
-# Hello, 👋 I'm Gettie!
+# Hello👋, I'm Gettie!
 
 **`Full-Stack Developer | Software Engineer`**
 
-Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies. When I'm not coding, you'll probably find me discovering interesting tech facts or building the next big thing.
+Welcome to my digital garden! I'm a passionate software developer with a love for creating innovative solutions and exploring cutting-edge technologies.
 
 ## 🚀 About Me
 
-- 💻 **Currently working with:** .NET, Java, Nest.js, React, and Python
+- 💻 **Currently working with:** .NET, Java, Nest.js, and React
 - 🌱 **Learning:** Advanced cloud architectures and system design
 - 👯 **Looking to collaborate on:** Open-source projects and innovative web applications
-- 💡 **Interests:** Clean code, scalable systems, and developer experience
-- 🎯 **2024 Goals:** Contribute to major open-source projects and master microservices
-
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="mailto:cheptoog677@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/getrude-cheptoo-8859952b0">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://wa.me/254728177993">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-</p>
+  
 
 ## 🛠️ Tech Stack & Tools
 
@@ -51,6 +36,20 @@ Welcome to my digital garden! I'm a passionate software developer with a love fo
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gettie1&theme=radical&hide_border=true&background=0d1117&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4" />
+</p>
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="mailto:cheptoog677@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/getrude-cheptoo-8859952b0">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/254728177993">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
 </p>
 
 ## ⚡ Fun Fact Zone
