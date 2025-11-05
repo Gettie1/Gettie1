@@ -1,15 +1,14 @@
-<div align="">
-
 <!-- Animated Header -->
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Gettie!" alt="Typing Animation" />
 </h1>
 
+<div>
+
 <!-- Visitor Stats -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Gettie1&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile Views" /> 
 </p>
-</div>
 
   <tr>
     <td width="60%" valign="top">
@@ -21,6 +20,7 @@
       <div align="center">
         <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=300&lines=Full-Stack+Developer;.NET+Specialist;Java+Enthusiast;Nest.js+Developer;Problem+Solver" alt="Roles Animation" />
       </div>
+</div>
 
 ### **💻 Languages & Frameworks**
 <div align="center">
