@@ -1,20 +1,24 @@
-
 <div align="center">
 
-<!-- Animated Header -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=35&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Gettie!" alt="Typing Animation" />
-</h1>
-
-<h3>
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;.NET+Specialist;Java+Enthusiast;Nest.js+Developer" alt="Roles Animation" />
-</h3>
+<!-- Animated Header - Side by Side -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h1>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=400&lines=Hello+World!+👋;I'm+Gettie!" alt="Typing Animation" />
+      </h1>
+    </td>
+    <td align="center" width="50%">
+      <h3>
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=400&lines=Full-Stack+Developer;.NET+Specialist;Java+Enthusiast;Nest.js+Developer" alt="Roles Animation" />
+      </h3>
+    </td>
+  </tr>
+</table>
 
 <!-- Visitor Stats -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=Gettie1&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/Gettie1?color=4ECDC4&style=flat-square&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Gettie1?color=45B7D1&style=flat-square&label=Stars" alt="GitHub Stars" />
 </p>
 
 </div>
@@ -136,4 +140,3 @@
 **⭐ Feel free to star my repositories if you find something interesting!**
 
 </div>
-```
