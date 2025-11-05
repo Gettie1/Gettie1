@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <!-- Animated Header -->
@@ -30,7 +30,6 @@
 <div align="center">
 
 ### 🎯 Current Focus
-```java
 public class Gettie {
     String[] workingWith = {".NET", "Java", "Nest.js", "React"};
     String[] learning = {"Cloud Architecture", "System Design", "Microservices"};
@@ -40,7 +39,7 @@ public class Gettie {
         return "Exciting projects that solve real-world problems!";
     }
 }
-```
+
 
 </div>
 
