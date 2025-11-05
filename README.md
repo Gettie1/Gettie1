@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
 
 <!-- Animated Header -->
 <h1>
@@ -9,7 +9,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=Gettie1&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile Views" /> 
 </p>
-
 </div>
 
   <tr>
