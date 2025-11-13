@@ -48,7 +48,6 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-
 <p>
   <a href="https://github.com/Gettie1">
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gettie1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=30,0d1117,161b22&title_color=ff69b4&icon_color=ff69b4" />
